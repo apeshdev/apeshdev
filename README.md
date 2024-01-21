@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apeshdev
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in MERN development
+- 🌱 I’m currently learning Backend
 - 📫 How to reach me apeshdev@gmail.com
 
 <!---

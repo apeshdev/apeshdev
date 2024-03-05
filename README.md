@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/apeshdev](https://github.com/apeshdev)
 
-- 💬 Pin me about **Node.js, JavaScript, TypeScript, Generative AI & LLMs, Java, Linux, Algorithms, ReactJS, React-Native, Next.js, Tailwind CSS.**
+- 💬 Pin me about **HTML5, Java, Node.js, JavaScript, TypeScript, Generative AI & LLMs, Linux, Algorithms, ReactJS, React-Native, Next.js, Tailwind CSS.**
 
 - 📫 How to reach me **apeshdev@gmail.com**
 
